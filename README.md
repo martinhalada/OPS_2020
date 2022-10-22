@@ -1,3 +1,1 @@
-# OPS
-
-Operační systémy 2020
+# Repozitář předmětu: operační systémy (OPS - 2020)
